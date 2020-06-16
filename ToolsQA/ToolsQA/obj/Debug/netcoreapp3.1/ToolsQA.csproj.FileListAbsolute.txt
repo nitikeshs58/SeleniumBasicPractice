@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\ToolsQA.exe
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.csproj.CopyComplete
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\ToolsQA.deps.json
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\ToolsQA.runtimeconfig.json
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\ToolsQA.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\ToolsQA.dll
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\bin\Debug\netcoreapp3.1\ToolsQA.pdb
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.dll
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.pdb
+C:\Users\Admin\source\repos\ToolsQA\ToolsQA\obj\Debug\netcoreapp3.1\ToolsQA.genruntimeconfig.cache
